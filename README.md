@@ -5,4 +5,4 @@ A idle screen DVD simulator
 
 *Página principal*
 
-<img src="https://github.com/daybson/dvd_simulator/blob/master/demo.gif" height="508" width="404">
+<img src="https://github.com/daybson/dvd_simulator/blob/master/demo.gif" height="404" width="508">
